@@ -17,9 +17,12 @@ Mental health issues can be challenging to navigate, and many individuals hesita
 
 The chatbot provides the following solutions:
 
-Accessible Support: Users can access the chatbot 24/7 from the comfort of their own devices, ensuring mental health support is always available when needed.
+### Accessible Support: 
+Users can access the chatbot 24/7 from the comfort of their own devices, ensuring mental health support is always available when needed.
 Empathetic Listening: Through natural language conversations, the chatbot offers a non-judgmental and empathetic ear, allowing users to openly share their thoughts and feelings.<br/>
-Personalized Guidance: By understanding the user's specific situation and emotional state, the chatbot can provide tailored recommendations, coping strategies, and resources to help manage mental health challenges effectively.<br/>
+
+### Personalized Guidance: 
+By understanding the user's specific situation and emotional state, the chatbot can provide tailored recommendations, coping strategies, and resources to help manage mental health challenges effectively.<br/>
 Anonymity: Users can engage with the chatbot anonymously, reducing the stigma and hesitation often associated with seeking mental health support.<br/>
 
 By combining the power of conversational AI with mental health expertise, our chatbot aims to create a safe and supportive environment for individuals to address their mental well-being.
