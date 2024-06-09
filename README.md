@@ -2,10 +2,10 @@
 
 This is a chatbot application designed to provide mental health support and resources to users. It uses the Gemini AI platform to power natural language conversations.
 
-🔗 
+🔗 https://mentahelp.vercel.app/
 
 
-<img width="950" alt="ISO 27001 support" src="">
+<img width="950" alt="ISO 27001 support" src="https://github.com/kaju23/mentahelp/assets/104551058/1d28f5c4-ed34-4066-b53b-269684edff84">
 
 
 ## What We Built  👨‍💻
